@@ -1,1 +1,1 @@
-# Short_term_deposit_model
+Bank marketing analysis / Short term deposit model
